@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @ashkan-ahmadi
+- 👋 Hi, I’m Ashkan
 - ❤️ I love playing and listening to music, creating content, problem solving, and, well ... making sourdough bread!
-- ⚛️ I’m currently learning React and React Native as well as Advanced WordPress theme development
+- 📖 I’m currently learning
+  - ⚛️ React, Next and React Native
+  - ⚡️ Supabase and general backend development
 - 🤝 I’m looking to collaborate on small and fun projects
 
 <!---
